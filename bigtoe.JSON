@@ -1,0 +1,25 @@
+{
+  "Big Cats": [
+    {
+      "name" : "Tiger",
+      "species" : "feline",
+      "favFoods" : ["Poeple", "More Poeple", "Ham"],
+      "birthYear" : 1999,
+      "photo" : "http://kids.sandiegozoo.org/sites/default/files/2017-06/animal-hero-tiger_0.jpg"
+    },
+    {
+      "name" : "Lion",
+      "species" : "Feline",
+      "favFoods" : ["Zebra", "Hippo", "food that can kill me"],
+      "birthYear" : 2008,
+      "photo" : "http://www.krugerpark.co.za/images/1-lion-charge-gc590a.jpg"
+    },
+    {
+      "name" : "Panther",
+      "species" : "Feline",
+      "favFoods" : ["tuna", "Pig", "Tarzan"],
+      "birthYear" : 2012,
+      "photo" : "https://vignette.wikia.nocookie.net/superheroes/images/c/c9/Black-panther.jpg"
+    }
+  ]
+}
